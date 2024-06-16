@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 
+title: Doctoral Candidate at Florida International University
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Graduate Research Assistant for the Adolescent Brain and Cognitive Development (ABCD) Study at the FIU site
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -34,7 +34,7 @@ profiles:
     url: 'mailto:asadams@fiu.edu'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/arafanning
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
@@ -52,17 +52,17 @@ education:
     date_start: 2020-08-01
     date_end: Present
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+Thesis is Oops I drank it again: Predictors of Emerging Adults’ Unplanned Drinking. Supervised by [Laura Finan, PhD and Corrine Zimmerman, PhD](https://ir.library.illinoisstate.edu/etd/1240).
+    button: 
+    text: 'Read Thesis: Illinois State University'
+    url: 'http://doi.org/10.30707/ETD2020.Adams.A'
     
   - area: MS in Psychology enroute to PhD
     institution: Florida International University
     date_start: 2020-08-01
     date_end: 2023-12-31
     summary: |
-     Thesis on X , Presented paper at INS. Under Review at APA Neuropsychology Journal. 
+     Thesis on , Presented paper at International Neuropsychology Society (INS). Under Review at APA Neuropsychology Journal. 
 
   - area: MS in Developmental Psychology
     institution: Illinois State University 
@@ -71,9 +71,9 @@ education:
     summary: |
      Thesis on X, presented pPer x 
       
-      Extensive Additional Coursework included:
+      Coursework in domains of Cognitive Neuroscience and Quantitative Psychology included:
       - Addiction Counseling
-      - Neurobiology 
+      - Special Topics in Neurobiology: Synaptic Plasticity
       - Advanced Quantitative Psychology Training
    
 
@@ -82,9 +82,9 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.4/4.0
+    Initial
       
-      Courses included:
+      :
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -167,6 +167,7 @@ awards:
     icon: coursera
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+    
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
