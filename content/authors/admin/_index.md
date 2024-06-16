@@ -1,18 +1,13 @@
 ---
 # Display name
 title: Doctoral Candidate at Florida International University
-
 # Name pronunciation (optional)
 name_pronunciation: 
-
 # Full name 
 first_name: Ashley R. 
 last_name: Adams
-
 # Status emoji
-status:
-  icon: ☕️
-
+status:icon: ☕️
 # Is this the primary user of the site?
 superuser: true
 
@@ -24,8 +19,8 @@ role: Graduate Research Assistant for the Adolescent Brain and Cognitive Develop
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+name: OpenAI
+url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -39,14 +34,11 @@ profiles:
     url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/
-
 interests:
   - Neuropsychology
   - Adolescent Development
   - Environmental Neuroscience
   - Substance use
-
-
   - area: PhD in Psychology: Clinical Science in Child and Adolescent Psychology
     institution: Florida International University
     date_start: 2020-08-01
@@ -56,39 +48,31 @@ Thesis is Oops I drank it again: Predictors of Emerging Adults’ Unplanned Drin
     button: 
     text: 'Read Thesis: Illinois State University'
     url: 'http://doi.org/10.30707/ETD2020.Adams.A'
-    
   - area: MS in Psychology enroute to PhD
     institution: Florida International University
     date_start: 2020-08-01
     date_end: 2023-12-31
     summary: |
      Thesis on , Presented paper at International Neuropsychology Society (INS). Under Review at APA Neuropsychology Journal. 
-
   - area: MS in Developmental Psychology
     institution: Illinois State University 
     date_start: 2018-08-01
     date_end: 2020-05-31
     summary: |
-     Thesis on X, presented pPer x 
-      
-      Coursework in domains of Cognitive Neuroscience and Quantitative Psychology included:
+    Thesis on X, presented pPer x
+Coursework in domains of Cognitive Neuroscience and Quantitative Psychology included:
       - Addiction Counseling
       - Special Topics in Neurobiology: Synaptic Plasticity
       - Advanced Quantitative Psychology Training
-   
-
   - area: BA in Neuroscience and Communication Sciences & Disorders
     institution: Augustana College
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
     Initial
-      
-      :
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -112,7 +96,6 @@ work:
       - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -146,15 +129,6 @@ skills:
         description: ''
         percent: 80
         icon: camera
-
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
-
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
