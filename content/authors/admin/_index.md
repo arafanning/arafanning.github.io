@@ -45,9 +45,9 @@ education:
   - date_start: 2020-08-01
   - date_end: 2025-05-01
 --- summary: | Thesis is Oops I drank it again: Predictors of Emerging Adults’ Unplanned Drinking. Supervised by [Laura Finan,  PhD and Corrine Zimmerman, PhD](https://ir.library.illinoisstate.edu/etd/1240).
-    --- button: 📖
-    --- text: 'Read Thesis: Illinois State University'
-    --- url: 'http://doi.org/10.30707/ETD2020.Adams.A'
+--- button: 📖
+--- text: 'Read Thesis: Illinois State University'
+--- url: 'http://doi.org/10.30707/ETD2020.Adams.A'
   - MS in Psychology enroute to PhD
     institution: Florida International University
     date_start: 2020-08-01
