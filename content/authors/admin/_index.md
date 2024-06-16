@@ -43,7 +43,7 @@ education:
   - PhD in Psychology: Clinical Science in Child and Adolescent Psychology
     institution: Florida International University
     -- date_start: 2020-08-01
-    -- date_end: Present
+    -- date_end: 2025-05-01
     -- summary: | Thesis is Oops I drank it again: Predictors of Emerging Adults’ Unplanned Drinking. Supervised by [Laura Finan,  PhD and Corrine Zimmerman, PhD](https://ir.library.illinoisstate.edu/etd/1240).
    -- button: 
     --- text: 'Read Thesis: Illinois State University'
