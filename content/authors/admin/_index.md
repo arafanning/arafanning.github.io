@@ -46,7 +46,7 @@ interests:
   - Environmental Neuroscience
   - Substance use
 
-education:
+
   - area: PhD in Psychology: Clinical Science in Child and Adolescent Psychology
     institution: Florida International University
     date_start: 2020-08-01
