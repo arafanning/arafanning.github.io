@@ -27,10 +27,4 @@ This folder is a complete, dependency-free academic website designed for GitHub 
 Most wording is in `index.html`. The long CV page is in `cv.html`.
 Visual formatting is in `styles.css`.
 
-You can send these files back to ChatGPT whenever you want a revision.
 
-## Optional additions
-
-- Add a professional headshot to `assets/` and insert it in the hero section.
-- Add your ORCID, Google Scholar, LinkedIn, or laboratory profile when available.
-- Replace the web CV with a PDF by uploading the PDF and changing the CV link.
