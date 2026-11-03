@@ -206,6 +206,41 @@ img { max-width: 100%; }
   font-size: 1.08rem;
 }
 
+.hero-motif {
+  width: min(100%, 510px);
+  margin: 1.75rem 0 .15rem;
+  color: var(--accent);
+}
+
+.hero-motif svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.motif-connection {
+  fill: none;
+  stroke: rgba(31, 90, 80, .38);
+  stroke-width: 1.5;
+  stroke-linecap: round;
+}
+
+.motif-connection.light {
+  stroke: rgba(184, 115, 74, .2);
+  stroke-dasharray: 3 8;
+}
+
+.motif-ring {
+  fill: rgba(255, 255, 255, .18);
+  stroke: rgba(31, 90, 80, .22);
+  stroke-width: 1;
+}
+
+.motif-dot.accent { fill: var(--accent); }
+.motif-dot.navy { fill: var(--navy); }
+.motif-dot.warm { fill: var(--warm); }
+.motif-dot.small { fill: #b9cec3; }
+
 .hero-actions,
 .contact-actions {
   display: flex;
