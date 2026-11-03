@@ -464,6 +464,10 @@ img { max-width: 100%; }
 .project-feature .eyebrow { color: #a9d5c8; }
 .project-feature h3 { font-size: clamp(1.6rem, 3vw, 2.35rem); }
 .project-feature p { margin: 0; color: rgba(255,255,255,.72); }
+.project-feature-details { display: grid; gap: 1rem; }
+.project-feature .project-repo-links { font-size: .91rem; }
+.project-repo-links a { color: #d2efe5; text-decoration: underline; text-underline-offset: .15em; }
+.project-repo-links a:hover, .project-repo-links a:focus-visible { color: #ffffff; }
 
 .split-heading {
   max-width: none;
