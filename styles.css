@@ -456,7 +456,7 @@ img { max-width: 100%; }
   background: var(--navy);
   color: var(--white);
   display: grid;
-  grid-template-columns: 1.05fr .95fr;
+  grid-template-columns: 1fr;
   align-items: end;
   gap: 2rem;
 }
@@ -722,3 +722,12 @@ footer {
   .cv-section { break-inside: avoid; }
   a { text-decoration: none; }
 }
+
+/* Long-form research and publication archive */
+.project-feature-details { max-width: 950px; }
+.project-feature .dissertation-lead { color: #fff; font-family: Georgia, 'Times New Roman', serif; font-size: clamp(1.22rem, 2vw, 1.65rem); line-height: 1.4; }
+.publications-intro h1 { margin: 0; font-size: clamp(2.2rem, 5vw, 4rem); }
+.publications-intro { padding-bottom: clamp(2rem, 4vw, 3rem); }
+.publication-read { margin-top: .65rem !important; }
+.publication-read a, .cv-pubs a { color: var(--accent); font-weight: 750; text-decoration: underline; text-underline-offset: .16em; }
+.publication-status { font-size: .89rem; font-style: italic; }
